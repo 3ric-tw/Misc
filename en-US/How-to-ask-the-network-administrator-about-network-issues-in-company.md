@@ -34,6 +34,8 @@ IT support / Network Administrator: (Internal monologue: I guess I need to be ps
 
 Just like asking for directions, reporting network issues follows a standard format. Let's examine these three essential elements:
 
+<img width="404" alt="截圖 2024-12-08 12 04 59" src="https://github.com/user-attachments/assets/2d8c71ab-e448-493a-b54a-fe41079f9237">
+
 ### 1. Source: Where are you now?
 - This is your computer's IP address, essentially your home address in the network world.
 - How to find it:
